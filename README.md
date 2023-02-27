@@ -1,2 +1,2 @@
 # blackjack_simple_gui
-Simple BackJack GUI using python, tkinter
+Simple BackJack GUI game using python, tkinter
